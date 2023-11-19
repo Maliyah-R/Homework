@@ -2,6 +2,8 @@
 let pizzaPlace = "Pizza Planet";
 let numberOfToppings = 88;
 console.log(pizzaPlace, numberOfToppings);
+console.log(typeof numberOfToppings);
+console.log(typeof pizzaPlace);
 
 console.log(
   `"Welcome to ${pizzaPlace}, where all ${numberOfToppings} of our toppings are out of this world!"`
