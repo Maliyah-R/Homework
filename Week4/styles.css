@@ -1,0 +1,51 @@
+/* StyleSheet */
+
+body {
+  text-align: center;
+  list-style-position: inside;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+
+
+#ps1 {
+background-color:  #fdd666;
+color: black;
+
+}
+
+#ps2 {
+  background-color: #df8f2d;
+  color: black;
+
+}
+
+#ps3 {
+  background-color: #7c8285;
+  color: black;
+
+}
+
+#ps4 {
+  background-color: #00a4e8 ;
+  border: #00a4e8;
+  color: black;
+}
+
+#ps5 {
+  background-color: white;
+  color: black;
+}
+
+* {
+  border: 200px white;
+}
+
+
+.Sources li {
+  list-style-type: none;
+  text-align: center;
+  list-style-position: inside;
+  align-items: center;
+}
